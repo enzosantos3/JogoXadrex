@@ -6,11 +6,10 @@ Este é um projeto simples de um tabuleiro de **xadrez interativo**, desenvolvid
 
 ## 📁 Estrutura do Projeto
 
-/projeto-xadrez
-│
-├── index.html        # Estrutura da página
-├── style.css         # Estilização do tabuleiro e das peças
-└── script.js         # Lógica do jogo (criação e movimentação de peças)
+**JogoXadrex**
+- index.html        # Estrutura da página
+- style.css         # Estilização do tabuleiro e das peças
+- script.js         # Lógica do jogo (criação e movimentação de peças)
 
 ---
 
